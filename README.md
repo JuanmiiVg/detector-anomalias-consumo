@@ -327,7 +327,7 @@ Obtiene el detalle de consumo de un cliente específico.
 ## 📸 Capturas de Pantalla
 
 ### Dashboard Principal
-![Dashboard](./docs/images/dashboard-principal.png)
+![Dashboard](./docs/images/dashboard-principal1.png)
 
 ### Panel de Control y Filtros
 ![Panel Control](./docs/images/panel-control.png)
