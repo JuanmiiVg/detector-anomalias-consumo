@@ -2,7 +2,7 @@
 
 Sistema avanzado para detectar patrones anómalos en consumo eléctrico que podrían indicar cultivos indoor ilegales. Analiza 2.3 millones de registros mediante agregaciones optimizadas de MongoDB.
 
-![Dashboard Principal](./docs/images/dashboard-principal.png)
+![Dashboard Principal](./docs/images/dashboard-principal1.png)
 
 ## 📋 Tabla de Contenidos
 
